@@ -88,6 +88,10 @@
                 <source>label.create_post</source>
                 <target>Créer un article</target>
             </trans-unit>
+            <trans-unit id="label.save_and_create_new">
+                <source>label.save_and_create_new</source>
+                <target>Enregistrer et créer un nouvel article</target>
+            </trans-unit>
             <trans-unit id="action.back_to_list">
                 <source>action.back_to_list</source>
                 <target>Retour à la liste des articles</target>
